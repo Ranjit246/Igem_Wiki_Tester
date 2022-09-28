@@ -9244,7 +9244,7 @@ textarea.form-control-lg {
         padding: 20px 0;
         margin-top: 20px;
         margin-left: 0px;
-        background: #fff;
+        background: rgb(0 32 74 / 25%);
         -webkit-transition: 0.2s 0s;
         -o-transition: 0.2s 0s;
         transition: 0.2s 0s; }
